@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/brijesh/Downloads/Prac/blockchain/DApps/BuyChaiForMe/contracts/BuyChai.sol": {
+      "lastModificationDate": 1724762034593,
+      "contentHash": "bb702469114d341c090d1e8556a937d3",
+      "sourceName": "contracts/BuyChai.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "BuyChai"
+      ]
+    }
+  }
+}
